@@ -1,3 +1,27 @@
 body{
     background-color: blueviolet;
 }
+body >header >div{
+    text-align: center;
+    margin: 0%;
+}
+.fried{
+    font-size: 50px;
+    margin: 0%;
+}
+.chiken{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+}
+main >div >ul >h1{
+    text-align: center;
+}
+.frank{
+    text-align: center;
+}
+footer >div{
+    text-align: center;
+    background-color: aliceblue;
+}
+
